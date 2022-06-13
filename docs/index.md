@@ -12,6 +12,6 @@
 3. In Netlify, select `Import an existing project` and select the Git project.
 4. Set `Basic build settings` and select `Deploy site`:
 
-- Base dirctory: (none)
-- Build command: mkdocs build
-- Publish directory: site
+    - Base dirctory: (none)
+    - Build command: mkdocs build
+    - Publish directory: site
